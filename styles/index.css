@@ -7,5 +7,6 @@
 @import url(sections.css);
 @import url(about.css);
 @import url(cards.css);
+@import url(pricing.css);
 @import url(features.css) (width >= 80rem); 
 /* So vai importar o features css se a largura da tela foi maior ou igual a 80rem */
