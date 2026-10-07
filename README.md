@@ -2,6 +2,9 @@
 
 
 
+
+<p align="center"><img src=".github/preview.png" alt="Página do LandingPage-MediaQuery" width="800"></p>
+
 ## 📝 Description
 
 LandingPage-MediaQuery is a responsive web project designed to demonstrate the power and versatility of CSS Media Queries in modern web development. This project features a clean, professional landing page layout that seamlessly adapts to various screen sizes, ensuring an optimal user experience across desktops, tablets, and smartphones. By prioritizing fluid design principles and mobile-first styling, it serves as an excellent implementation example for building accessible and visually consistent interfaces for any device.
